@@ -1,0 +1,16 @@
+name: ttc_segmentation
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - opencv
+  - pillow
+  - xgboost
+  - scikit-learn
+  - pytables
+  - pytorch=1.4.0
+  - numpy
+  - openpyxl
+  - seaborn
+prefix: miniconda3/envs/ttc_segmentation
