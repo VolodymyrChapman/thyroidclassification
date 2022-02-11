@@ -1,5 +1,5 @@
 ## Initiate Python (3.7) environment needed for the scripts in the segmentation folder
-## Note: Tested on Ubuntu 20.04 (11/02/2022)
+### Tested on Ubuntu 20.04 (11/02/2022)
 ### From yml file in this directory:
     
     conda env create -f environment.yml
